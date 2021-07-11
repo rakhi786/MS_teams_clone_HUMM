@@ -17,16 +17,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amirsanni/livestream-server.git"
+    "url": "git+ https://github.com/rakhi786/ut.git"
   },
   "keywords": [
     "LiveStream",
     "Server"
   ],
-  "author": "Amir Sanni <amirsanni@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/amirsanni/livestream-server/issues"
+  "engines": {
+    "node": ">=0.12"
   },
-  "homepage": "https://github.com/amirsanni/livestream-server#readme"
+  "author": "Rakhi Sehra <rakhi.sehra.mat19@itbhu.ac.in>",
+  "license": "ISC",
+  "homepage": "https://github.com/rakhi786/ut#readme"
 }
