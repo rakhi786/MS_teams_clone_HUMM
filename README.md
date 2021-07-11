@@ -27,8 +27,8 @@ IN TERMINAL TYPE:
 
 
  
-# Demo
-You can test at https://chat.1410inc.xyz.
+# DEMO OF THE APPLICATION
+You can test at https://ms-clone123.herokuapp.com/
 
 
 #
