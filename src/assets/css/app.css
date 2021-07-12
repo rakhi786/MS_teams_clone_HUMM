@@ -231,11 +231,11 @@ body{
     padding-right: 20rem !important;
 }
 .editnav {
-   background-color: rgb(216, 245, 51) !important;
+   background-color:  #93c9a8!important;
    z-index: -1000;
 }
 .bgchat{
-    background-color: rgb(216, 245, 51) !important;
+    background-color:   #93c9a8!important;
 }
 div#room-create {
     margin-top: 25px;
@@ -265,8 +265,12 @@ div#room-create {
     margin-left: 16px;
     margin-right: 15px;
 }
-button#create-room {
-    background: #405773;
+#create-room, #enter-room{
+        background: #969ac7!important;
+        color: black;
+        font-weight: bold;
+        border-radius: 11px!important;
+    
 }
 .xyz {
     margin-top: 90px!important;
@@ -308,4 +312,11 @@ button#enter-room {
     font-weight: bold;
     position: fixed;
     margin-left: 602px;
+}
+.bg-info {
+    background-color: #93c9a8!important;
+}
+#navbottom{
+    background-color: #93c9a8!important;
+    z-index: 1!important;
 }
