@@ -27,7 +27,7 @@ IN TERMINAL TYPE:
 - `node app.js`
  
 # DEMO OF THE APPLICATION
-You can chekc the webapp demo : https://ms-clone123.herokuapp.com/
+You can check the webapp demo : https://ms-clone123.herokuapp.com/
 
 
 # ACHIEVING AGILE
@@ -35,9 +35,9 @@ The Agile methodology is a way to manage a project by breaking it up into severa
 The agile methodology was achieved during this project in the following sprints:
 - SPRINT 1:
 In Sprint 1,I explored about the libraries,APIs and frameworks to be used in the project which  included:
--WebRTC which was used to enable Web application and site to capture and optionally stream audio and video media and to exchange arbitrary data between browsers without requiring an intermediary.
--Nodejs , express for wrting the server code and organizing the application
--Socket io library for enabling a realtime, bi-directional communication between web clients and servers.
+   - WebRTC which was used to enable Web application and site to capture and optionally stream audio and video media and to exchange arbitrary data between browsers without requiring an intermediary.
+   -Nodejs , express for wrting the server code and organizing the application
+   -Socket io library for enabling a realtime, bi-directional communication between web clients and servers.
 
 - SPRINT 2 :
 In sprint 2,I had implemented a basic prototype which provided a start to the project using html and css.
