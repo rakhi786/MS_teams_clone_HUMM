@@ -1,6 +1,9 @@
-# VIDEO CHAT APPLICATION
-A video chat application implemented using Socket.io and Node.js.
+# MS TEAMS CLONE: VIDEO CHAT APPLICATION
+This is a video chat application implemented using Socket.io and Node.js.
+
 # WHAT ARE THE FEATURES?
+- Add meeting's Name
+- Add your name
 - Turn on/turn off the video
 - mute/unmute
 - Multi-participants
@@ -9,6 +12,7 @@ A video chat application implemented using Socket.io and Node.js.
 - Screen sharing
 - Mute individual participant
 - Text chat
+
 
 # FEATURES to be added in future
 - User authentication
@@ -23,7 +27,7 @@ IN TERMINAL TYPE:
 - `node app.js`
  
 # DEMO OF THE APPLICATION
-You can test at https://ms-clone123.herokuapp.com/
+You can chekc the webapp demo : https://ms-clone123.herokuapp.com/
 
 
 # ACHIEVING AGILE
